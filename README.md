@@ -1,9 +1,9 @@
 # DevOps Final Project
 
-This repository contains a full-stack DevOps project with:
+This repository contains a DevOps project with:
 
-* A **Frontend** application deployed on **Kubernetes using YAML**
-* A **Flask Backend** application run via **Docker CLI commands**
+* A **Frontend** application running on **Kubernetes using YAML**
+* A **Flask Backend** application run on **Kubernetes via CLI**
 
 This project demonstrates:
 
@@ -214,6 +214,5 @@ This opens the frontend in your browser.
 
 ## Author
 
-Utsav Ojha
-uojha@clarku.edu
+Utsav Ojha (uojha@clarku.edu)
 
